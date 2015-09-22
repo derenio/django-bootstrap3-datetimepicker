@@ -15,6 +15,7 @@ setup(
     author_email='nakahara.kunihiko@gmail.com',
     url='https://github.com/gcaprio/django-bootstrap3-datetimepicker.git',
     license='Apache License 2.0',
+    zip_safe=False,
     classifiers=[
         'Intended Audience :: Developers',
         'License :: OSI Approved :: Apache Software License',
